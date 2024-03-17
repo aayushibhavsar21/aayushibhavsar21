@@ -4,7 +4,9 @@
   <em>
     <ul>
         <li>🎓 3rd Year Undergraduate at <a href="https://kpgu.ac.in/">Drs. Kiran and Pallavi Patel Global University</a></li>
-        <li> 📫 How to reach me **aayushibhavsar2004@gmail.com**</li>  
+        <li>🚀 HTML Projects  : Web pages , forms , and interactive elements.</li>
+        <li>🔍 Data Analytics : Insights , trends , data visualization and patterns from various datasets.</li>
+        <li> 📫 How to reach me **aayushibhavsar2004@gmail.com**</li> 
     </ul>
   </em>  
 </p>
