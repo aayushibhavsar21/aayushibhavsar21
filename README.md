@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aayushi Bhavsar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushibhavsar21&label=Profile%20views&color=0e75b6&style=flat" alt="aayushibhavsar21" /> </p>
-
-- 📫 How to reach me **aayushibhavsar2004@gmail.com**
+<p>
+  <em>
+    <ul>
+        <li>🎓 3rd Year Undergraduate at <a href="https://kpgu.ac.in/">Drs. Kiran and Pallavi Patel Global University</a></li>
+        <li> 📫 How to reach me **aayushibhavsar2004@gmail.com**</li>  
+    </ul>
+  </em>  
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
