@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayushi Bhavsar</h1>
+<img align="right" alt="coding" width="400" src="https://github.com/aayushibhavsar21/aayushibhavsar21/assets/138964486/f75c16da-fd34-4373-bbf7-3914aebcd53d">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushibhavsar21&label=Profile%20views&color=0e75b6&style=flat" alt="aayushibhavsar21" /> </p>
 <p>
   <em>
