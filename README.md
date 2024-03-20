@@ -1,19 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aayushi Bhavsar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushibhavsar21&label=Profile%20views&color=0e75b6&style=flat" alt="aayushibhavsar21" /> </p>
-<p>
-  <em>
-    <ul>
-        <li>🎓 3rd Year Undergraduate at <a href="https://kpgu.ac.in/">Drs. Kiran and Pallavi Patel Global University</a></li>
-        <li>🚀 HTML Projects  : Web pages , forms , and interactive elements.</li>
-        <li>🔍 Data Analytics : Insights , trends , data visualization and patterns from various datasets.</li>
-    </ul>
-  </em>  
-</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/aayushi-bhavsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushi-bhavsar" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/aayushi bhavsar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushi bhavsar" height="30" width="40" /></a>
+<a href="https://hackerrank.com/aayushibhavsar21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aayushibhavsar21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +13,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushibhavsar21&show_icons=true&locale=en&layout=compact" alt="aayushibhavsar21" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aayushibhavsar21&show_icons=true&locale=en" alt="aayushibhavsar21" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aayushibhavsar21&" alt="aayushibhavsar21" /></p>
